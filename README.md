@@ -1,8 +1,9 @@
-# projeto_integrador_FRONT_proz_turma11_grupo2
-Repositório com os arquivos criados durante o projeto final do Curso de Introdução a Programação Front-End da Proz.
+# Projeto Integrador Proz
+## Front-End
+### Turma 11 - Grupo 2
 
-# projeto_integrador
-Projeto integrador de conclusão de curso na Proz.
+# Projeto integrador de conclusão de curso na Proz.
+Repositório com os arquivos criados durante o projeto final do Curso de Introdução a Programação Front-End da Proz.
 
 1 Proposta de Valor:
 
