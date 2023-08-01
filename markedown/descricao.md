@@ -1,4 +1,4 @@
-<h1 align='center'> Bora Comer </h1>
+<h1 align='center'> Pet Proz </h1>
 
 ## Descrição
 
@@ -11,10 +11,6 @@ Assim temos 2 principais serviços:
 1- Consultar, contribuir ou publicar locais para comer. Assim todos, não apenas sabem sobre o estabelecimento mas a opinião das pessoas e se vale a pena arriscar ir lá
 
 2- Procurar aquela receitinha pra calar de vez as lombrigas, pra impressionar alguém e até pra aprender a fazer seu primeiro ovo frito
-
-Para visualizar o projeto [entre aqui](https://viniciusdmorais.github.io/Projeto-Integrador/index.html)
-
-
 
 
 ## Construção
@@ -31,12 +27,5 @@ Para visualizar o projeto [entre aqui](https://viniciusdmorais.github.io/Projeto
 
 ## Equipe
 
-Keiler Trindade [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/keilertrindade)](https://github.com/keilertrindade)
+Keiler Trindade [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cesar-augusto-costa)](https://github.com/cesar-augusto-costa)
 
-Renata de Paula  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rehffv)](https://github.com/rehffv)
-
-Rodrigo Tormente  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RTormente)](https://github.com/RTormente)
-
-Shirley Oliveira Lopes  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/shirleyol)](https://github.com/shirleyol)
-
-Vinicius de Morais Mendes  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/viniciusdmorais)](https://github.com/viniciusdmorais)
